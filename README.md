@@ -1,6 +1,7 @@
 # Sinema-Rezervasyon-Otomasyonu
 Yeni rezervasyonların koltuk müsaitliğine göre kontrol ederek uygun olan koltuğu seçerek eklenebilmektedir. Rezervasyon görüntüleme ve düzenleme yapabilirsiniz.
-## Uygulamamızın Görsel Düzeni
+# Uygulamamızın Görsel Düzeni
+
 ## Ana Ekran
 Ana ekranda Kullanıcı girişi,Yönetici girişi ve Çıkış olarak üç bölümden oluşmaktadır.
 
@@ -29,13 +30,13 @@ Yöetici panelinde yeni kulllanıcı eklenebilir veya silinebilir bunun yanı s�
 
   ### Kayıt İşlemleri Bölümü
 
-  Burada yönetici ve kullanıcı yeni gelen müşterinin adı,soyadı,koltuk numarasını ve cinsiyetini yazarak müşteriyi sisteme kaydeder.
+  Burada yönetici ve kullanıcı yeni gelen müşterinin adı soyadı  koltuk numarasını ve cinsiyetini yazarak sisteme kaydedebilir.
 
    ![alt text](5.png)
 
    ### Rezervasyon İptali Bölümü 
 
-   Burada ise rezervasyonu iptal etemek isteyen müşetrinin koltuk numarası yazılarak müşterini rzervasyonu iptal edilir.
+   Burada ise rezervasyonu iptal etemek isteyen müşetrinin koltuk numarası yazılarak müşterini rezervasyonu iptal edilir.
 
  ![alt text](6.png)
  
